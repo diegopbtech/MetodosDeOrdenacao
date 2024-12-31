@@ -1,2 +1,2 @@
-# MetodosDeOrdenacao
-Um algoritmo comparando o tempo de execução dos dois métodos de ordenação: Selection Sort e Insertion Sort.
+# Algoritmos de Ordenacao
+Um algoritmo utilizando dois métodos de ordenação de vetores: Selection Sort e Insertion Sort. Após a execução, é feito um comparativo do tempo de execução!
